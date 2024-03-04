@@ -10,4 +10,4 @@ Telegram: https://t.me/vltcord
 <br>
 YouTube: https://youtube.com/@VaultCord
 
-Made by the founder of [@KeyAuth](https://github.com/KeyAuth) and ~~restorecord~~. Three years of experience in the making, come try us out!
+Made by the founder of [@KeyAuth](https://github.com/KeyAuth) and ~~restorecord~~. Four years of experience in the making, come try us out!
