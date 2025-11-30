@@ -18,4 +18,4 @@ VaultCord uses official Discord APIs to backup messages, automod rules, stickers
 
 Made by the founder of [@KeyAuth](https://github.com/KeyAuth) and Restorecord. Six years of industry experience with Discord development, try us for free today!
 
-<img src="https://cdn.vaultcord.com/logo.png" alt="" width="128" height="128">
+<img src="https://cdn.vaultcord.com/VCThreadv2.png" alt="">
